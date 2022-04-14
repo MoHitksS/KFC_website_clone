@@ -43,15 +43,15 @@ Here the user will interact with different categories of foods.
 
 ### 3. Login Page
 Here the user can login through a mobile number. Example- mobile: 123456789
-![r](https://i.ibb.co/zSy2MFs/Screenshot-1871.png)
+![r](https://i.ibb.co/zSy2MFs/Screenshot-1871.png);
 
 ### 3. Menu Page
 Here the user can select different food items.
-![r](https://i.ibb.co/Jq0402X/Screenshot-1874.png)
+![r](https://i.ibb.co/Jq0402X/Screenshot-1874.png);
 
 ### 4. Deals Page
 Here user can see different ongoing deals.
-![r](https://i.ibb.co/JBdjLt0/Screenshot-1875.png)
+![r](https://i.ibb.co/JBdjLt0/Screenshot-1875.png);
 
 ### 5. Payment Page
-![r](https://i.ibb.co/cxRQqWd/Screenshot-1870.png)
+![r](https://i.ibb.co/cxRQqWd/Screenshot-1870.png);
