@@ -27,13 +27,11 @@ https://jolly-hawking-c11904.netlify.app/
 
 ## Pages Built and steps to run the project
 
-First step clone the repository using the git command - git clone https://github.com/vikalpvarshney1/team8.git
+First step clone the repository using the git command - git clone https://github.com/Vishalrj750/Final_Kfc_Repo.git
 
-Go to bookmyshow Folder git command - cd bookmyshow
+Go to index.html
 
-In the project directory, you can run:
-
-### `npm start`
+And open live server.
 
 ### 1. Landing Page
 If new user enters in the system then the user will land here.
