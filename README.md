@@ -1,6 +1,6 @@
 # KFC_WEBSITE_CLONE
 
-KFC is an American fast food restaurant chain headquartered in Louisville, Kentucky that specializes in fried chicken. It is the world's second-largest restaurant. A collaborative project, built in 5 days by a team of 3 developers.
+KFC_website_clone where users can login through their mobile numbers, can order foods, and also can see their total ordered items and their prices in navbar. And also users can see their ordered foods on click on cart logo and make payment to order. A collaborative project, built in 5 days by a team of 3 developers.
 
 ## Tech Stack
 
@@ -22,7 +22,7 @@ https://jolly-hawking-c11904.netlify.app/
 
 ### 1. Users can login through their mobile numbers.
 ### 2. Can order foods, and also can see their total ordered items and their prices in navbar.
-### 3. Can see their all ordered foods in cart logo and make payment to order.
+### 3. Can see their all ordered foods on clicking on cart logo and make payment to order.
 
 
 ## Pages Built and steps to run the project
